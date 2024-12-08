@@ -9,7 +9,7 @@
   display: flex;
   flex-direction: column;
   padding: 25px 200px;
-  height: 100vh;
+  height: 120vh;
 }
 
 .main-heading{
@@ -208,7 +208,7 @@
     flex-direction: column;
     align-items: center;
     position: absolute;
-    top: 800px;
+    top: 900px;
   }
 
   .middle-section-container{
@@ -226,7 +226,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   margin: 40px 200px;
-  margin-top: 180px;
+  margin-top: 230px;
   /* position: absolute;
   top: 1000px; */
   
@@ -320,7 +320,7 @@
 @media screen and (max-width:768px){
   .vitamins-section{
     margin: 20px 30px;
-    margin-top: 1050px;
+    margin-top: 1150px;
     display: flex;
     flex-direction: column;
   }
