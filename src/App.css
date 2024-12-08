@@ -208,7 +208,7 @@
     flex-direction: column;
     align-items: center;
     position: absolute;
-    top: 900px;
+    top: 950px;
   }
 
   .middle-section-container{
@@ -226,7 +226,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   margin: 40px 200px;
-  margin-top: 230px;
+  margin-top: 190px;
   /* position: absolute;
   top: 1000px; */
   
