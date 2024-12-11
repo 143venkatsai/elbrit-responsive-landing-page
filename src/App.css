@@ -110,6 +110,8 @@
 @media screen and (max-width:768px){
   .top-section{
     padding: 10px 30px;
+    background-color: #E2F5Fb;
+    height: 150vh;
   }
 
   .main-heading{
@@ -320,7 +322,7 @@
 @media screen and (max-width:768px){
   .vitamins-section{
     margin: 20px 30px;
-    margin-top: 1150px;
+    margin-top: 1300px;
     display: flex;
     flex-direction: column;
   }
