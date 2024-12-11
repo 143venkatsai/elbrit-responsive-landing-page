@@ -4,6 +4,12 @@
 
 /* Top Banner  Section */
 
+.top-image-logo{
+  height: 50px;
+  width: 120px;
+  margin-left: 30px;
+}
+
 .top-section{
   background-color: #E2F5Fb;
   display: flex;
@@ -322,7 +328,7 @@
 @media screen and (max-width:768px){
   .vitamins-section{
     margin: 20px 30px;
-    margin-top: 1270px;
+    margin-top: 1240px;
     display: flex;
     flex-direction: column;
   }

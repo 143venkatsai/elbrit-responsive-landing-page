@@ -17,6 +17,7 @@ import "./App.css"
 const App = () =>(
   <div className="app-container">
      {/* top-banner-section */}
+     <img className="top-image-logo" src="https://res.cloudinary.com/djk1yczb2/image/upload/v1733649518/1538732227413_l1ojiz.jpg" alt="logo" />
     <section className="top-section">
       <h1 className="main-heading">Essential Vitamins</h1>
       <div className="top-section-container">
